@@ -87,3 +87,24 @@ a {
 a:hover {
     background-color: #2980b9;
 }
+
+button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #FF9800;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button:hover {
+    background-color: #F57C00;
+}
+#resultado {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #333;
+}
